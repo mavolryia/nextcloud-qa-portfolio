@@ -20,6 +20,7 @@
 | № | Описание | Статус |
 |---|---|---|
 | 1 | Квота обходится при параллельной загрузке файлов | [nextcloud/server#66543](https://github.com/nextcloud/server/issues/66543) |
+| 2 | Части файла при загрузке частями без OC-Total-Length не учитываются в квоте | [nextcloud/server#66846](https://github.com/nextcloud/server/issues/66846) |
 
 ## Статус
 
